@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ali
+- 👀 I’m interested in python and machine learning
+- 🌱 I’m currently learning ML and the related
+- 💞️ I’m looking to collaborate on ML and AI
+- 📫 How to reach me ali.akbari.alashti84@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I can play football better than ronaldo
